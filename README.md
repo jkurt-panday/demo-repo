@@ -12,4 +12,4 @@ To use branches as not to make modification to the main codebase.
 
 ## Undoing in git
 
-To undo a mistake in git when coding.
+To undo a change in git when coding using 'git reset'.
